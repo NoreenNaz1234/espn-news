@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# News app
 
-You can use the [editor on GitHub](https://github.com/NoreenNaz1234/espn-news/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It tells about current Sport news of everywhere
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Getting Started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First you need API KEY for Fetch data from an other website
 
-```markdown
-Syntax highlighted code block
+For API KEY you have to make an account of those website 
 
-# Header 1
-## Header 2
-### Header 3
+You can get free and paid API from there 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Need jquery
 
-**Bold** and _Italic_ and `Code` text
+You will need jquery for coding.. It is very easy to get
 
-[Link](url) and ![Image](src)
+```
+You should go there for dwonloading  https://jquery.com/download/
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### CDN
 
-### Jekyll Themes
+Ypu can use CDN of jquery
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NoreenNaz1234/espn-news/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
+you shuld go there for getting CDN https://developers.google.com/speed/libraries/#jquery
+```
 
-### Support or Contact
+## Material I used init
+I used javascript and jquery.. I fetched the data from newsapi.org
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### You can see and use my app from here 
+
+https://noreennaz1234.github.io/espn-news/
