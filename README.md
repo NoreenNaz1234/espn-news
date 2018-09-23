@@ -22,7 +22,7 @@ You should go there for dwonloading  https://jquery.com/download/
 
 ### CDN
 
-Ypu can use CDN of jquery
+You can use CDN of jquery
 
 ```
 you shuld go there for getting CDN https://developers.google.com/speed/libraries/#jquery
