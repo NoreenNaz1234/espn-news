@@ -31,6 +31,22 @@ you shuld go there for getting CDN https://developers.google.com/speed/libraries
 ## Material I used init
 I used javascript and jquery.. I fetched the data from newsapi.org
 
+
+#### You can see screenshot here ####
+
+##### Image 1 #####
+
+
+![espn1](https://user-images.githubusercontent.com/38943389/46229182-2fcc1680-c37e-11e8-9d7c-99c181a729cb.PNG)
+
+
+##### Image 2
+
+
+![espn2](https://user-images.githubusercontent.com/38943389/46229186-30fd4380-c37e-11e8-915e-416be64cc47d.PNG)
+
+
+
 ### You can see and use my app from here 
 
 https://noreennaz1234.github.io/espn-news/
